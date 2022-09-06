@@ -8,3 +8,5 @@ The main feature is the design of the individual locations having an individual 
 
 
 Plans for Phase 2 of this apps development: Corey plans to create individual routes for her international locations and domestic travels in the USA.
+
+CHECK IT OUT HERE => https://coreystraveljournel.netlify.app/
